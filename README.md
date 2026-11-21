@@ -1,6 +1,6 @@
 # Library Management System
 
-A simple Library Management System developed using Java.
+A Java application for managing books, members, and loans.
 
 ## Features
 
