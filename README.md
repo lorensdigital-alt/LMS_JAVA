@@ -1,6 +1,6 @@
 # Library Management System
 
-A console-based Java application for managing a library.
+A console-based Java application for managing books, members, and loans.
 
 ## Features
 
